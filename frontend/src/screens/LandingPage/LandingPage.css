@@ -1,0 +1,27 @@
+.main {
+	min-height: 85vh;
+	display: flex;
+	align-items: center;
+	background-image: url("../../background1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+.title{
+	font-size: 65px;
+}
+.subtitle{
+	font-size: 20px;
+	padding-top: 10px;
+}
+.intro-text{
+	width: 100%;
+	text-align: center;
+}
+.buttonContainer{
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.landingButton{
+	width: 100px;
+}
